@@ -1,0 +1,8 @@
+Media Stat
+IPv4 Address
+Subnet Mask
+Default Gateway
+Host Name
+Node Type
+Physical Address
+DHCP Server
